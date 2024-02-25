@@ -258,7 +258,7 @@ const EventForm = ({userId, type, event, eventId }: EventFormProps) => {
               <div className="flex-center h-[54px] w-full overflow-hidden rounded-full bg-grey-50 px-4 py-2 ">
                 <Image 
                   src="/assets/icons/rupee.svg"
-                  alt="dollar"
+                  alt="rupee"
                   width={15}
                   height={24}
                   className="filter-grey"
